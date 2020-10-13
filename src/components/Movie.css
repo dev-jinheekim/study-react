@@ -8,11 +8,21 @@
     background-color: white;
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    color: #282828;
+}
+
+.movie:hover {
+    text-decoration: underline;
 }
 
 .movie img{
     width: 150px;
     margin-top: -25px;
+}
+
+.movie:hover img {
+    margin-top: -30px;
 }
 
 .movie__data{
