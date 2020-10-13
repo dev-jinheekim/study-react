@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dev-jinheekim/study-react/static/css/main.1306493d.chunk.css",
-    "main.js": "/dev-jinheekim/study-react/static/js/main.c75c6012.chunk.js",
-    "main.js.map": "/dev-jinheekim/study-react/static/js/main.c75c6012.chunk.js.map",
-    "runtime-main.js": "/dev-jinheekim/study-react/static/js/runtime-main.61f66678.js",
-    "runtime-main.js.map": "/dev-jinheekim/study-react/static/js/runtime-main.61f66678.js.map",
-    "static/js/2.2709286c.chunk.js": "/dev-jinheekim/study-react/static/js/2.2709286c.chunk.js",
-    "static/js/2.2709286c.chunk.js.map": "/dev-jinheekim/study-react/static/js/2.2709286c.chunk.js.map",
-    "index.html": "/dev-jinheekim/study-react/index.html",
-    "precache-manifest.78ce3e2a7b4c0592bc1da82f7a159ff1.js": "/dev-jinheekim/study-react/precache-manifest.78ce3e2a7b4c0592bc1da82f7a159ff1.js",
-    "service-worker.js": "/dev-jinheekim/study-react/service-worker.js",
-    "static/css/main.1306493d.chunk.css.map": "/dev-jinheekim/study-react/static/css/main.1306493d.chunk.css.map",
-    "static/js/2.2709286c.chunk.js.LICENSE.txt": "/dev-jinheekim/study-react/static/js/2.2709286c.chunk.js.LICENSE.txt"
+    "main.css": "/study-react/static/css/main.1306493d.chunk.css",
+    "main.js": "/study-react/static/js/main.c75c6012.chunk.js",
+    "main.js.map": "/study-react/static/js/main.c75c6012.chunk.js.map",
+    "runtime-main.js": "/study-react/static/js/runtime-main.8c644c8a.js",
+    "runtime-main.js.map": "/study-react/static/js/runtime-main.8c644c8a.js.map",
+    "static/js/2.2709286c.chunk.js": "/study-react/static/js/2.2709286c.chunk.js",
+    "static/js/2.2709286c.chunk.js.map": "/study-react/static/js/2.2709286c.chunk.js.map",
+    "index.html": "/study-react/index.html",
+    "precache-manifest.94661afa5c08ea328eb9d4f850c987a9.js": "/study-react/precache-manifest.94661afa5c08ea328eb9d4f850c987a9.js",
+    "service-worker.js": "/study-react/service-worker.js",
+    "static/css/main.1306493d.chunk.css.map": "/study-react/static/css/main.1306493d.chunk.css.map",
+    "static/js/2.2709286c.chunk.js.LICENSE.txt": "/study-react/static/js/2.2709286c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61f66678.js",
+    "static/js/runtime-main.8c644c8a.js",
     "static/js/2.2709286c.chunk.js",
     "static/css/main.1306493d.chunk.css",
     "static/js/main.c75c6012.chunk.js"
